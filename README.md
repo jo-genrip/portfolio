@@ -24,10 +24,11 @@
 
 ### 1. Webアプリケーション / フロントエンド
 - **想起カード Tier表作成ツール (JavaScript)**
-  - 攻略Wikiの利便性向上を目的としたレスポンシブWebツール。CORS対策やスマホ/PCの動的レイアウト制御を実装し、実際のゲーム攻略Wikiに導入・運用されています。
+  - 攻略Wikiの利便性向上を目的としたレスポンシブWebツール。CORS対策やスマホ/PCの動的レイアウト制御を実装し、実際のゲーム攻略Wikiに導入・運用されています。[リポジトリ](https://github.com/jo-genrip/touhou-gensou-eclipse-tier)
+  - [実際に稼働しているサイト](https://w.atwiki.jp/genlip/pages/572.html)
 ### 2. ゲームwikiの運営
-- **ゲーム攻略Wikiの共同運営 (チーム開発 / 約200ページ規模)**
- - チームで運営しているゲームの攻略wikiです。[https://w.atwiki.jp/genlip/]
+- **ゲーム攻略Wikiの共同運営 (チーム開発 )**
+ - チームで運営しているゲームの攻略wikiです。[atwiki](https://w.atwiki.jp/genlip/)
 ---
 
 ##  今後のアップデート予定
